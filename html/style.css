@@ -1,0 +1,29 @@
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(192, 192, 192);
+}
+
+p {
+    font-size: 22px;
+}
+
+.div1img, .div23img {
+    width: 300px;
+    height: auto;
+}
+
+.div23img {
+    border: 5px solid white;
+    border-radius: 4px;
+}
+
+table, th, td {
+    border: 1px solid white;
+    color: tomato;
+}
+
+.footer {
+    color: red;
+    text-align: center;
+}
